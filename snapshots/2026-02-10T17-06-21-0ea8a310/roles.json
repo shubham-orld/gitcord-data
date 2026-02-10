@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "discord_user_id": "1289814383668760639",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1376526321169207296",
+      "roles": [
+        "apprentice",
+        "testing_role"
+      ]
+    },
+    {
+      "discord_user_id": "1462199096663347313",
+      "roles": [
+        "Github-Bot"
+      ]
+    },
+    {
+      "discord_user_id": "1470482058202583182",
+      "roles": []
+    },
+    {
+      "discord_user_id": "369000194630746113",
+      "roles": []
+    }
+  ],
+  "generated_at": "2026-02-10T17:06:21.033681+00:00",
+  "org": "shubham-orld",
+  "run_id": "0ea8a310-fee1-4ffe-89fb-0323ed026e50",
+  "schema_version": "1.0.0"
+}
