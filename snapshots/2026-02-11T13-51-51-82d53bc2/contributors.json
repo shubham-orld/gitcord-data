@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "comments": 0,
+      "github_user": "Shubhamshinde5080",
+      "issues_opened": 0,
+      "period_end": "2026-02-11T13:51:34.486977+00:00",
+      "period_start": "2026-01-12T13:51:34.486977+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 2,
+      "github_user": "shubham5080",
+      "issues_opened": 22,
+      "period_end": "2026-02-11T13:51:34.486977+00:00",
+      "period_start": "2026-01-12T13:51:34.486977+00:00",
+      "prs_opened": 6,
+      "prs_reviewed": 6,
+      "total_score": 0
+    }
+  ],
+  "generated_at": "2026-02-11T13:51:51.287323+00:00",
+  "org": "shubham-orld",
+  "run_id": "82d53bc2-8991-470d-ae05-584e5da88287",
+  "schema_version": "1.0.0"
+}
