@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "github_user": "shubham5080",
+      "period_end": "2026-02-13T09:53:58.697717+00:00",
+      "period_start": "2026-01-14T09:53:58.697717+00:00",
+      "points": 0
+    },
+    {
+      "github_user": "Shubhamshinde5080",
+      "period_end": "2026-02-13T09:53:58.697717+00:00",
+      "period_start": "2026-01-14T09:53:58.697717+00:00",
+      "points": 0
+    }
+  ],
+  "generated_at": "2026-02-13T09:54:12.477973+00:00",
+  "org": "shubham-orld",
+  "run_id": "fee97f96-4369-4df4-aafd-aed955c44c6b",
+  "schema_version": "1.0.0"
+}
