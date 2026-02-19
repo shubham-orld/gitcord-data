@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "github_user": "shubham5080",
+      "period_end": "2026-02-19T13:13:55.954542+00:00",
+      "period_start": "2026-01-20T13:13:55.954542+00:00",
+      "points": 0
+    },
+    {
+      "github_user": "Shubhamshinde5080",
+      "period_end": "2026-02-19T13:13:55.954542+00:00",
+      "period_start": "2026-01-20T13:13:55.954542+00:00",
+      "points": 0
+    },
+    {
+      "github_user": "yadavvishal4691-pixel",
+      "period_end": "2026-02-19T13:13:55.954542+00:00",
+      "period_start": "2026-01-20T13:13:55.954542+00:00",
+      "points": 0
+    }
+  ],
+  "generated_at": "2026-02-19T13:14:10.254472+00:00",
+  "org": "shubham-orld",
+  "run_id": "d5d4be06-e0eb-4f93-92ee-5f82547dea9a",
+  "schema_version": "1.0.0"
+}
