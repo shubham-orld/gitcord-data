@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "discord_user_id": "1171129278088347699",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1289814383668760639",
+      "roles": [
+        "Mentor"
+      ]
+    },
+    {
+      "discord_user_id": "1327665876668776538",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1376526321169207296",
+      "roles": [
+        "Admin",
+        "Mentor",
+        "apprentice",
+        "testing_role"
+      ]
+    },
+    {
+      "discord_user_id": "1397953827964981329",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1462199096663347313",
+      "roles": [
+        "Github-Bot"
+      ]
+    },
+    {
+      "discord_user_id": "1463062939505266811",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1470482058202583182",
+      "roles": []
+    },
+    {
+      "discord_user_id": "1471802351793864716",
+      "roles": [
+        "apprentice"
+      ]
+    },
+    {
+      "discord_user_id": "369000194630746113",
+      "roles": [
+        "Mentor"
+      ]
+    },
+    {
+      "discord_user_id": "449525136417095682",
+      "roles": []
+    },
+    {
+      "discord_user_id": "720169480881438743",
+      "roles": []
+    },
+    {
+      "discord_user_id": "826318467560112129",
+      "roles": []
+    }
+  ],
+  "generated_at": "2026-02-21T17:27:40.394737+00:00",
+  "org": "shubham-orld",
+  "run_id": "5fcf3572-51e5-4e1c-921e-c987635c9dc9",
+  "schema_version": "1.0.0"
+}
