@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "comments": 0,
+      "github_user": "Shubhamshinde5080",
+      "issues_opened": 0,
+      "period_end": "2026-02-21T17:12:05.698635+00:00",
+      "period_start": "2026-01-22T17:12:05.698635+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "amanthatdoescares",
+      "issues_opened": 0,
+      "period_end": "2026-02-21T17:12:05.698635+00:00",
+      "period_start": "2026-01-22T17:12:05.698635+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "shubham5080",
+      "issues_opened": 16,
+      "period_end": "2026-02-21T17:12:05.698635+00:00",
+      "period_start": "2026-01-22T17:12:05.698635+00:00",
+      "prs_opened": 7,
+      "prs_reviewed": 9,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "yadavvishal4691-pixel",
+      "issues_opened": 2,
+      "period_end": "2026-02-21T17:12:05.698635+00:00",
+      "period_start": "2026-01-22T17:12:05.698635+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    }
+  ],
+  "generated_at": "2026-02-21T17:12:23.252849+00:00",
+  "org": "shubham-orld",
+  "run_id": "0c86f21b-109e-4fe1-8a8b-90c3b4817759",
+  "schema_version": "1.0.0"
+}
