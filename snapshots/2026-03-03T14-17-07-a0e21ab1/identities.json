@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "discord_user_id": "YOUR_DISCORD_USER_ID",
+      "github_user": "YOUR_GITHUB_USERNAME"
+    }
+  ],
+  "generated_at": "2026-03-03T14:17:07.150503+00:00",
+  "org": "shubham-orld",
+  "run_id": "a0e21ab1-3023-4057-916f-5d2ab0ccff9b",
+  "schema_version": "1.0.0"
+}
