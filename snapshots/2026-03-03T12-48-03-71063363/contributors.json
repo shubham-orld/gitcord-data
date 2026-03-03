@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "comments": 0,
+      "github_user": "Shubhamshinde5080",
+      "issues_opened": 0,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 5,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "amanthatdoescares",
+      "issues_opened": 0,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "coderabbitai[bot]",
+      "issues_opened": 0,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 2,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "rahul-vyas-dev",
+      "issues_opened": 0,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 4,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "shubham5080",
+      "issues_opened": 15,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 13,
+      "prs_reviewed": 11,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "yadavvishal4691-pixel",
+      "issues_opened": 2,
+      "period_end": "2026-03-03T12:47:42.225850+00:00",
+      "period_start": "2026-02-01T12:47:42.225850+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    }
+  ],
+  "generated_at": "2026-03-03T12:48:03.697333+00:00",
+  "org": "shubham-orld",
+  "run_id": "71063363-4c30-4066-9996-be7bdbb7cf6e",
+  "schema_version": "1.0.0"
+}
